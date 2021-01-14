@@ -2,10 +2,10 @@
 Prediction of how many people are willing to rent a bike.
 
 # LibrariesUsed
-*numpy 
+-numpy 
 
-*pandas
+-pandas
 
-*matplotlib.pyplot
+-matplotlib.pyplot
 
-*seaborn
+-seaborn
